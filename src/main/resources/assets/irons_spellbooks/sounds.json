@@ -1,0 +1,321 @@
+{
+  "force_impact": {
+    "sounds": [
+      "irons_spellbooks:force_impact"
+    ]
+  },
+  "arial_summoning_5_custom_1": {
+    "sounds": [
+      "irons_spellbooks:arial_summoning_5_custom_1"
+    ]
+  },
+  "magic_spell_reverse_3": {
+    "sounds": [
+      "irons_spellbooks:magic_spell_reverse_3"
+    ]
+  },
+  "dark_magic_buff_03_custom_1": {
+    "sounds": [
+      "irons_spellbooks:dark_magic_buff_03_custom_1"
+    ]
+  },
+  "dark_spell_02": {
+    "sounds": [
+      "irons_spellbooks:dark_spell_02"
+    ]
+  },
+  "heartstop_cast": {
+    "sounds": [
+      "irons_spellbooks:heartstop_cast"
+    ]
+  },
+  "spell.heartstop.heartbeat": {
+    "sounds": [
+      "irons_spellbooks:heartstop_heartbeat"
+    ]
+  },
+  "lightning_lance_cast": {
+    "sounds": [
+      "irons_spellbooks:lightning_lance_cast"
+    ]
+  },
+  "lightning_woosh_01": {
+    "sounds": [
+      "irons_spellbooks:lightning_woosh_01"
+    ]
+  },
+  "magic_arrow_release": {
+    "sounds": [
+      "irons_spellbooks:magic_arrow_release"
+    ]
+  },
+  "magic_arrow_charge": {
+    "sounds": [
+      "irons_spellbooks:magic_arrow_charge"
+    ]
+  },
+  "frost_step": {
+    "sounds": [
+      "irons_spellbooks:frost_step"
+    ]
+  },
+  "ice_impact": {
+    "sounds": [
+      "irons_spellbooks:ice_impact"
+    ]
+  },
+  "abyssal_teleport": {
+    "sounds": [
+      "irons_spellbooks:abyssal_teleport"
+    ]
+  },
+  "entity.dead_king.attack_swing": {
+    "sounds": [
+      "irons_spellbooks:dead_king/attack_double_swipe1",
+      "irons_spellbooks:dead_king/attack_double_swipe2"
+    ]
+  },
+  "entity.dead_king.attack_slam": {
+    "sounds": [
+      "irons_spellbooks:dead_king/attack_slam"
+    ]
+  },
+  "entity.dead_king.attack_hit": {
+    "sounds": [
+      "irons_spellbooks:dead_king/attack_hit"
+    ]
+  },
+  "entity.dead_king.resurrect": {
+    "sounds": [
+      "irons_spellbooks:dead_king/resurrection"
+    ]
+  },
+  "entity.dead_king.spawn": {
+    "sounds": [
+      "irons_spellbooks:dead_king/spawn"
+    ]
+  },
+  "entity.dead_king.fake_death": {
+    "sounds": [
+      "irons_spellbooks:dead_king/fake_death"
+    ]
+  },
+  "entity.dead_king.death": {
+    "sounds": [
+      "irons_spellbooks:dead_king/death"
+    ]
+  },
+  "entity.dead_king.hurt": {
+    "sounds": [
+      "irons_spellbooks:dead_king/hurt1",
+      "irons_spellbooks:dead_king/hurt2",
+      "irons_spellbooks:dead_king/hurt3",
+      "irons_spellbooks:dead_king/hurt4"
+    ]
+  },
+  "entity.dead_king.explode": {
+    "sounds": [
+      "irons_spellbooks:dead_king/explode"
+    ]
+  },
+  "cast.generic.fire": {
+    "sounds": [
+      "irons_spellbooks:generic/fire_cast"
+    ]
+  },
+  "cast.generic.ice": {
+    "sounds": [
+      "irons_spellbooks:generic/ice_cast"
+    ]
+  },
+  "cast.generic.lightning": {
+    "sounds": [
+      "irons_spellbooks:generic/lightning_cast"
+    ]
+  },
+  "cast.generic.ender": {
+    "sounds": [
+      "irons_spellbooks:generic/ender_cast"
+    ]
+  },
+  "cast.generic.blood": {
+    "sounds": [
+      "irons_spellbooks:generic/blood_cast"
+    ]
+  },
+  "cast.generic.evocation": {
+    "sounds": [
+      "irons_spellbooks:generic/evocation_cast"
+    ]
+  },
+  "cast.generic.holy": {
+    "sounds": [
+      "irons_spellbooks:generic/holy_cast"
+    ]
+  },
+  "cast.generic.poison": {
+    "sounds": [
+      "irons_spellbooks:generic/poison_cast"
+    ]
+  },
+  "cast.blood_step": {
+    "sounds": [
+      "irons_spellbooks:blood_step_teleport"
+    ]
+  },
+  "loop.fire_breath": {
+    "sounds": [
+      "irons_spellbooks:fire_breath_loop"
+    ]
+  },
+  "loop.electrocute": {
+    "sounds": [
+      "irons_spellbooks:electrocute_loop"
+    ]
+  },
+  "loop.cone_of_cold": {
+    "sounds": [
+      "irons_spellbooks:cone_of_cold_loop"
+    ]
+  },
+  "loop.cloud_of_regen": {
+    "sounds": [
+      "irons_spellbooks:cloud_of_regen_loop"
+    ]
+  },
+  "cast.raise_dead.start": {
+    "sounds": [
+      "irons_spellbooks:raise_dead_start"
+    ]
+  },
+  "cast.raise_dead.finish": {
+    "sounds": [
+      "irons_spellbooks:raise_dead_cast"
+    ]
+  },
+  "cast.void_tentacles.start": {
+    "sounds": [
+      "irons_spellbooks:void_tentacles_start"
+    ]
+  },
+  "cast.void_tentacles.finish": {
+    "sounds": [
+      "irons_spellbooks:void_tentacles_cast"
+    ]
+  },
+  "entity.void_tentacles.retreat": {
+    "sounds": [
+      "irons_spellbooks:void_tentacle_retreat"
+    ]
+  },
+  "entity.void_tentacles.ambient": {
+    "sounds": [
+      "irons_spellbooks:void_tentacle_ambient"
+    ]
+  },
+  "cast.abyssal_shroud": {
+    "sounds": [
+      "irons_spellbooks:abyssal_shroud_cast"
+    ]
+  },
+  "cast.ice_block": {
+    "sounds": [
+      "irons_spellbooks:ice_block_cast"
+    ]
+  },
+  "entity.ice_block.impact": {
+    "sounds": [
+      "irons_spellbooks:ice_block_impact"
+    ]
+  },
+  "loop.ray_of_siphoning": {
+    "sounds": [
+      "irons_spellbooks:ray_of_siphoning_loop"
+    ]
+  },
+  "cast.fireball": {
+    "sounds": [
+      "irons_spellbooks:fireball_start"
+    ]
+  },
+  "spell.acid_orb.cast": {
+    "sounds": [
+      "irons_spellbooks:acid_spit_cast"
+    ]
+  },
+  "spell.acid_orb.charge": {
+    "sounds": [
+      "irons_spellbooks:acid_spit_charge"
+    ]
+  },
+  "entity.acid_orb.impact": {
+    "sounds": [
+      "irons_spellbooks:acid_orb_impact"
+    ]
+  },
+  "spell.poison_arrow.cast": {
+    "sounds": [
+      "irons_spellbooks:poison_arrow_cast"
+    ]
+  },
+  "spell.poison_arrow.charge": {
+    "sounds": [
+      "irons_spellbooks:poison_arrow_charge"
+    ]
+  },
+  "spell.poison_breath.loop": {
+    "sounds": [
+      "irons_spellbooks:poison_breath_loop"
+    ]
+  },
+  "spell.black_hole.cast": {
+    "sounds": [
+      "irons_spellbooks:black_hole_cast"
+    ]
+  },
+  "spell.black_hole.charge": {
+    "sounds": [
+      "irons_spellbooks:black_hole_charge"
+    ]
+  },
+  "entity.black_hole.loop": {
+    "sounds": [
+      "irons_spellbooks:black_hole_loop"
+    ]
+  },
+  "spell.poison_splash.begin": {
+    "sounds": [
+      "irons_spellbooks:poison_splash_start"
+    ]
+  },
+  "spell.blight.begin": {
+    "sounds": [
+      "irons_spellbooks:blight_start"
+    ]
+  },
+  "entity.root.emerge": {
+    "sounds": [
+      "irons_spellbooks:root_emerge"
+    ]
+  },
+  "spell.spider_aspect.cast": {
+    "sounds": [
+      "irons_spellbooks:spider_aspect_cast"
+    ]
+  },
+  "entity.blood_needle.impact": {
+    "sounds": [
+      "irons_spellbooks:blood_needle_impact"
+    ]
+  },
+  "spell.fire_bomb.cast": {
+    "sounds": [
+      "irons_spellbooks:fire_bomb_cast"
+    ]
+  },
+  "spell.fire_bomb.charge": {
+    "sounds": [
+      "irons_spellbooks:fire_bomb_start"
+    ]
+  }
+}
