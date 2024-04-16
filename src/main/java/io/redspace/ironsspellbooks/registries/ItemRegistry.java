@@ -50,6 +50,23 @@ public class ItemRegistry {
 
     public static final RegistryObject<Item> SUPERIOR_SPELLBOOK = ITEMS.register("superior_spellbook", () -> new SimpleAttributeSpellBook(7, SpellRarity.EPIC, AttributeRegistry.SPELL_POWER, .10));
     public static final RegistryObject<Item> GENERAL_SPELLBOOK = ITEMS.register("general_spellbook", () -> new SimpleAttributeSpellBook(6, SpellRarity.RARE, AttributeRegistry.SPELL_POWER, .10));
+    public static final RegistryObject<Item> SSUPERIOR_SPELLBOOK = ITEMS.register("ssuperior_spellbook", () -> new SimpleAttributeSpellBook(8, SpellRarity.EPIC, AttributeRegistry.SPELL_POWER, .10));
+    public static final RegistryObject<Item> GGENERAL_SPELLBOOK = ITEMS.register("ggeneral_spellbook", () -> new SimpleAttributeSpellBook(8, SpellRarity.EPIC, AttributeRegistry.SPELL_POWER, .10));
+    public static final RegistryObject<Item> VIRIDIUS_SPELLBOOK = ITEMS.register("viridius_spellbook", () -> new SimpleAttributeSpellBook(12, SpellRarity.LEGENDARY, AttributeRegistry.SPELL_POWER, .10));
+    //COPIA SKINS
+    public static final RegistryObject<Item> A_SPELL_BOOK = ITEMS.register("a_spell_book", () -> new SimpleAttributeSpellBook(8, SpellRarity.EPIC, AttributeRegistry.SPELL_POWER, .10));
+    public static final RegistryObject<Item> B_SPELL_BOOK = ITEMS.register("b_spell_book", () -> new SimpleAttributeSpellBook(8, SpellRarity.EPIC, AttributeRegistry.SPELL_POWER, .10));
+    public static final RegistryObject<Item> C_SPELL_BOOK = ITEMS.register("c_spell_book", () -> new SimpleAttributeSpellBook(8, SpellRarity.EPIC, AttributeRegistry.SPELL_POWER, .10));
+    public static final RegistryObject<Item> D_SPELL_BOOK = ITEMS.register("d_spell_book", () -> new SimpleAttributeSpellBook(8, SpellRarity.EPIC, AttributeRegistry.SPELL_POWER, .10));
+    public static final RegistryObject<Item> F_SPELL_BOOK = ITEMS.register("f_spell_book", () -> new SimpleAttributeSpellBook(8, SpellRarity.EPIC, AttributeRegistry.SPELL_POWER, .10));
+    public static final RegistryObject<Item> E_SPELL_BOOK = ITEMS.register("e_spell_book", () -> new SimpleAttributeSpellBook(8, SpellRarity.EPIC, AttributeRegistry.SPELL_POWER, .10));
+    public static final RegistryObject<Item> G_SPELL_BOOK = ITEMS.register("g_spell_book", () -> new SimpleAttributeSpellBook(8, SpellRarity.EPIC, AttributeRegistry.SPELL_POWER, .10));
+    public static final RegistryObject<Item> H_SPELL_BOOK = ITEMS.register("h_spell_book", () -> new SimpleAttributeSpellBook(8, SpellRarity.EPIC, AttributeRegistry.SPELL_POWER, .10));
+    public static final RegistryObject<Item> I_SPELL_BOOK = ITEMS.register("i_spell_book", () -> new SimpleAttributeSpellBook(8, SpellRarity.EPIC, AttributeRegistry.SPELL_POWER, .10));
+    public static final RegistryObject<Item> J_SPELL_BOOK = ITEMS.register("j_spell_book", () -> new SimpleAttributeSpellBook(8, SpellRarity.EPIC, AttributeRegistry.SPELL_POWER, .10));
+
+    //COPIA SKINS
+
     public static final RegistryObject<Item> RHUS_HEART = ITEMS.register("rhus_heart", RhusHeart :: new);
     public static final RegistryObject<Item> EMPTY_HAND = ITEMS.register("empty_hand", EmptyHand::new);
     public static final RegistryObject<Item> WIMPY_SPELL_BOOK = ITEMS.register("wimpy_spell_book", () -> new SpellBook(0, SpellRarity.LEGENDARY, new Item.Properties().stacksTo(1).rarity(Rarity.UNCOMMON)));
