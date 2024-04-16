@@ -53,6 +53,9 @@ public class ItemRegistry {
     public static final RegistryObject<Item> SSUPERIOR_SPELLBOOK = ITEMS.register("ssuperior_spellbook", () -> new SimpleAttributeSpellBook(8, SpellRarity.EPIC, AttributeRegistry.SPELL_POWER, .10));
     public static final RegistryObject<Item> GGENERAL_SPELLBOOK = ITEMS.register("ggeneral_spellbook", () -> new SimpleAttributeSpellBook(8, SpellRarity.EPIC, AttributeRegistry.SPELL_POWER, .10));
     public static final RegistryObject<Item> VIRIDIUS_SPELLBOOK = ITEMS.register("viridius_spellbook", () -> new SimpleAttributeSpellBook(12, SpellRarity.LEGENDARY, AttributeRegistry.SPELL_POWER, .10));
+
+    public static final RegistryObject<Item> MANTIAOMI_SPELLBOOK = ITEMS.register("viridius_spellbook", () -> new SimpleAttributeSpellBook(12, SpellRarity.LEGENDARY, AttributeRegistry.SPELL_POWER, .10));
+
     //COPIA SKINS
     public static final RegistryObject<Item> A_SPELL_BOOK = ITEMS.register("a_spell_book", () -> new SimpleAttributeSpellBook(8, SpellRarity.EPIC, AttributeRegistry.SPELL_POWER, .10));
     public static final RegistryObject<Item> B_SPELL_BOOK = ITEMS.register("b_spell_book", () -> new SimpleAttributeSpellBook(8, SpellRarity.EPIC, AttributeRegistry.SPELL_POWER, .10));
